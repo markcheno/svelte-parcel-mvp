@@ -24,7 +24,7 @@
       </ul>
     </nav>
   </header>
-    <section>
+  <section>
     <header>
       <h2>Section Heading - Hello {name}!</h2>
       <p>Section Subheading</p>
@@ -53,7 +53,8 @@
       <p>More revealed content</p>
     </details>
     <br />
-    <footer>
-        <small>Footer</small>
-    </footer>
-    </main>
+  </div>
+  <footer>
+    <small>Footer</small>
+  </footer>
+</main>
