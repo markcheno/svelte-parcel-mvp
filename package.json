@@ -9,7 +9,6 @@
     "mvp.css"
   ],
   "repository": "github:markcheno/svelte-parcel-mvp",
-  "version": "0.9",
   "description": "Super simple Svelte/Parcel starter template with MVP.css",
   "license": "MIT",
   "scripts": {
