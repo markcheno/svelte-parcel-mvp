@@ -11,6 +11,14 @@ npm install
 npm run dev
 ```
 
+## To build for production
+
+```
+npm run build
+```
+
+~20kb gzip compressed!
+
 ## Built With
 
 - [Svelte](https://svelte.dev/) - Cybernetically enhanced web apps
