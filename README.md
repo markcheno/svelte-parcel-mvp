@@ -11,10 +11,25 @@ npm install
 npm run dev
 ```
 
+or
+
+```
+npx degit github.com/markcheno/svelte-parcel-mvp my-mvp
+cd my-mvp
+yarn
+yarn serve
+```
+
 ## To build for production
 
 ```
 npm run build
+```
+
+or
+
+```
+yarn build
 ```
 
 ~20kb gzip compressed!
