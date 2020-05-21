@@ -1,4 +1,4 @@
-# Project Title
+# svelte-parcel-mvp
 
 Super simple Svelte starter template with Parcel and MVP.css
 
